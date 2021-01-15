@@ -1,0 +1,49 @@
+* {
+  font-family: Arial;
+}
+
+nav, footer {
+  background-color: #ffa07a;
+  padding: 5px 10px;
+  color: #2f4f4f;
+}
+
+nav a {
+  color: #2f4f4f;
+  text-decoration: none;
+}
+
+nav > a:first-child {
+  font-variant: small-caps;
+  font-size: 20px;
+  margin-bottom: 5px;
+  display: block;
+  font-weight: bold;
+}
+
+nav form {
+  margin-bottom: 5px;
+}
+
+nav button {
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: gray;
+  background: transparent;
+  padding: 3px 5px;
+}
+
+img {
+  border: 2px solid grey;
+  margin: 5px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+ul li a {
+  color: navy;
+  font-weight: bold;
+  text-decoration: none;
+}
