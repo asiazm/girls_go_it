@@ -1,5 +1,5 @@
 * {
-  font-family: Arial;
+  font-family: Verdena;
 }
 
 nav, footer {
@@ -35,6 +35,7 @@ nav button {
 
 img {
   border: 2px solid grey;
+  border-radius: 5px;
   margin: 5px;
 }
 
